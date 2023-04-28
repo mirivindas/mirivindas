@@ -10,8 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href="	https://www.linkedin.com/in/alice-losacco-9a5883120/	">	12	</a>
+
 <a href="	https://www.linkedin.com/in/marcos-verdini/	">	13	</a>
+
 <a href="	https://www.linkedin.com/in/joaofmaranhao/	">	14	</a>
+
 <a href="	https://www.linkedin.com/in/mathmatos/	">	15	</a>
 <a href="	https://www.linkedin.com/in/alekaimer/	">	16	</a>
 <a href="	https://www.linkedin.com/in/ccagnin/	">	17	</a>
