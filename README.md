@@ -9,7 +9,7 @@ mirivindas/mirivindas is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="	https://www.linkedin.com/in/alice-losacco-9a5883120/	">	12	</a>
+<a href="https://www.linkedin.com/in/alice-losacco-9a5883120/">	12	</a>
 
 <a href="	https://www.linkedin.com/in/marcos-verdini/	">	13	</a>
 
